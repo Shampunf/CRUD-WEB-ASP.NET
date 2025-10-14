@@ -1,0 +1,6 @@
+@чето_HostAddress = http://localhost:5282
+
+GET {{чето_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
